@@ -33,6 +33,7 @@ PostgreSQL has evolved into the universal data engine—combining ACID relationa
   - [🏆 Ranked by GitHub Stars](#-ranked-by-github-stars)
   - [🧱 Categorized Architecture & Tooling](#-categorized-architecture--tooling)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#️-disclaimer)
 
@@ -151,6 +152,24 @@ Contributions are warmly welcomed! Help expand this directory by suggesting inno
 4. 💾 Commit your changes (`git commit -m "Add new PostgreSQL extension"`).
 5. 🚀 Push to the branch (`git push origin feature/new-postgres-tool`).
 6. 📩 Open a Pull Request!
+
+---
+
+## 💖 Support & Sponsorship ☕
+
+Thank you so much for visiting and utilizing this guide! Maintaining and curating this comprehensive open database index takes continuous effort.
+
+If you find this repository valuable:
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork and contribute** your favorite extensions or DBaaS setups.
+- 📢 **Share it** with fellow database engineers, platform architects, and developers.
+- ☕ **Buy a coffee & sponsor**: If this project helped you in your work or learning, consider showing your support on the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
