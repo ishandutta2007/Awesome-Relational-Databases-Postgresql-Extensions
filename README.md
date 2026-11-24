@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Relational-Databases-Postgresql-Extensions/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Relational-Databases-Postgresql-Extensions?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Relational-Databases-Postgresql-Extensions/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Relational-Databases-Postgresql-Extensions?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Relational-Databases-Postgresql-Extensions/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Relational-Databases-Postgresql-Extensions?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Relational-Databases-Postgresql-Extensions/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -30,7 +30,7 @@ PostgreSQL has evolved into the universal data engine—combining ACID relationa
 - [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [☁️ SaaS & Hosted PostgreSQL Platforms](#️-saas--hosted-postgresql-platforms)
 - [💻 Open-Source PostgreSQL Projects & Extensions](#-open-source-postgresql-projects--extensions)
-  - [🏆 Ranked by GitHub Stars](#-ranked-by-github-stars)
+  - [🏆 Ranked by GitHub_Stars](#-ranked-by-github-stars)
   - [🧱 Categorized Architecture & Tooling](#-categorized-architecture--tooling)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [💖 Support & Sponsorship](#-support--sponsorship)
@@ -69,11 +69,11 @@ The table below lists leading managed PostgreSQL and cloud relational database p
 
 PostgreSQL's greatest superpower is its extensible architecture. The ecosystem ranges from vector similarity search to distributed partitioning, high availability, and in-database workflow execution.
 
-### 🏆 Ranked by GitHub Stars ⭐
+### 🏆 Ranked by GitHub_Stars ⭐
 
-All major open-source PostgreSQL repositories, engines, operators, and extensions sorted descending by GitHub star count:
+All major open-source PostgreSQL repositories, engines, operators, and extensions sorted descending by GitHub Stars_Count:
 
-| 📦 Repository & Link | 🌟 Star Badge | 📝 Description & Primary Use Case |
+| 📦 Repository & Link | 🌟 Stars_Badge | 📝 Description & Primary Use Case |
 | :--- | :---: | :--- |
 | **[supabase/supabase](https://github.com/supabase/supabase)** | [![Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers) | Open-source Firebase alternative built on top of Postgres with Auth, Vector storage, Realtime APIs, and auto-generated REST/GraphQL. |
 | **[timescale/timescaledb](https://github.com/timescale/timescaledb)** | [![Stars](https://img.shields.io/github/stars/timescale/timescaledb?style=social&color=white)](https://github.com/timescale/timescaledb/stargazers) | Time-series and analytical data engine built as a native Postgres extension with automatic hypertable chunking and columnar compression. |
